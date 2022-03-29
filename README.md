@@ -1,7 +1,7 @@
 # Normality_Test
 > In this project I tried to run a number of normality tests on a dataset. 
 > 
-> At the end I use "Box-Cox Transformation" and "Yeo-Johnson Transformation" to normalize the dataset.
+> At the end of notebook, I used "Box-Cox Transformation" and "Yeo-Johnson Transformation" to normalize the dataset.
 > 
 > the methods I used for normality tests are:
 > 
